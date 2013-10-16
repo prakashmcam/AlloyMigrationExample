@@ -1,0 +1,27 @@
+"#movies_row": {
+	height: '60dp',
+	backgroundColor: '#fff'
+}
+
+"Label": {
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE
+}
+
+"#title": {
+	top: '7dp',
+	left: '7dp',
+	font: {
+		fontSize: '15dp',
+		fontWeight: 'bold'
+	}
+}
+
+"#subtitle": {
+	bottom: '7dp',
+	left: '14dp',
+	font: {
+		fontSize: '16dp',
+		fonWeight: 'normal'
+	}
+}

@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container">
+		<TextField id="username" width="200dp"  hintText="User name"></TextField>
+		<Button id="clickMeBtn" onClick="doClick">Click Me</Button>
+		<TableView id="moviestable" dataCollection="movies">
+			<Require src="movies_row"/>
+		</TableView>
+	</Window>
+</Alloy>

@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=alloyModelExamples
+android/abi=armeabi
+android/distribute_path=D\:\\Build\\alloyModelExamples
+android/keystore_alias=alloyModelExamples
+android/keystore_password=alloyModelExamples
+android/keystore_path=D\:\\Build\\alloyModelExamples\\alloyModelExample
+android/recent_output=D\:\\Build\\alloyModelExamples
+android/sdk_version=Google APIs (Android 2.3.3)
+eclipse.preferences.version=1

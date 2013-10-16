@@ -1,0 +1,17 @@
+".container": {
+	backgroundColor:"white",
+	layout:"vertical"
+},
+
+"Button": {
+	top:"10dp",
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#moviestable": {
+	top: '50dp',
+	bottom: 0,
+	backgroundColor: '#FFF'
+} 
